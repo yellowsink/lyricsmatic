@@ -1,0 +1,16 @@
+name: lyricsmatic
+description: An automatic lyrics fetcher for your music library.
+version: 1.0.0
+repository: https://github.com/yellowsink/lyricsmatic
+
+environment:
+  sdk: ^3.0.7
+
+# Add regular dependencies here.
+dependencies:
+  http: ^1.1.0
+  json_serializable: ^6.7.1
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
